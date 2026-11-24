@@ -1,0 +1,6 @@
+{
+  "name": "WebDevs Voice — Hyderabadi Tenglish AI Sales Caller",
+  "description": "Outbound AI voice calling and pitch studio for WebDevs that calls leads via Twilio and converses in natural urban Hyderabadi Tenglish for web app, mobile app, and Meta marketing services.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

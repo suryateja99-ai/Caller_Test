@@ -1,0 +1,564 @@
+{
+  "leads": [
+    {
+      "id": "lead-hyd-01",
+      "name": "Karthik Reddy",
+      "phone": "+919848011223",
+      "businessName": "Deccan Spice Kitchen",
+      "businessType": "Cloud Kitchen & Biryani Delivery",
+      "location": "Madhapur, Hyderabad",
+      "focusServices": [
+        "mobile_app",
+        "meta_ads"
+      ],
+      "notes": "Currently paying high aggregator commissions; looking to boost direct weekend orders around HITEC City.",
+      "stage": "New",
+      "createdAt": "2026-11-20T10:10:15.887Z"
+    },
+    {
+      "id": "lead-hyd-02",
+      "name": "Dr. Sneha Rao",
+      "phone": "+919000544321",
+      "businessName": "Aura Dental & Aligners",
+      "businessType": "Dental & Cosmetic Clinic",
+      "location": "Jubilee Hills, Hyderabad",
+      "focusServices": [
+        "web_app",
+        "meta_ads"
+      ],
+      "notes": "Needs online slot booking web app and Instagram lead campaigns for invisalign consultations.",
+      "stage": "Follow-up",
+      "createdAt": "2026-11-21T10:10:15.887Z"
+    },
+    {
+      "id": "lead-hyd-03",
+      "name": "Harsha Vardhan",
+      "phone": "+919949233810",
+      "businessName": "Kora Handloom Studio",
+      "businessType": "Boutique Ethnic Wear Brand",
+      "location": "Banjara Hills, Hyderabad",
+      "focusServices": [
+        "web_app",
+        "mobile_app",
+        "meta_ads"
+      ],
+      "notes": "Strong Instagram following; wants a fast D2C storefront with WhatsApp checkout and festival Meta ad funnels.",
+      "stage": "New",
+      "createdAt": "2026-11-22T10:10:15.887Z"
+    },
+    {
+      "id": "lead-hyd-04",
+      "name": "Prashanth Goud",
+      "phone": "+919701455908",
+      "businessName": "Skyline PropTech Advisory",
+      "businessType": "Real Estate & Gated Communities",
+      "location": "Kokapet, Hyderabad",
+      "focusServices": [
+        "web_app",
+        "meta_ads"
+      ],
+      "notes": "Launching new villa plots near Neopolis; needs high-intent Meta lead funnels and interactive project portal.",
+      "stage": "New",
+      "createdAt": "2026-11-23T02:10:15.887Z"
+    }
+  ],
+  "calls": [
+    {
+      "id": "reh-a46bfa70",
+      "leadName": "Karthik Reddy",
+      "businessName": "Deccan Spice Kitchen",
+      "businessType": "Cloud Kitchen & Biryani Delivery",
+      "toNumber": "Browser Rehearsal",
+      "fromNumber": "WebDevs Studio",
+      "voiceName": "Leda",
+      "focusServices": [
+        "web_app",
+        "mobile_app",
+        "meta_ads"
+      ],
+      "customNotes": "Looking to grow direct orders around HITEC City and run local Instagram lead ads.",
+      "channel": "rehearsal",
+      "status": "completed",
+      "startedAt": "2026-11-24T05:02:15.542Z",
+      "durationSec": 1,
+      "transcript": [
+        {
+          "id": "677f91c7-d8ec-4009-a331-19c154d6b641",
+          "speaker": "system",
+          "text": "Live voice rehearsal started with Kavya (Leda).",
+          "timestamp": "2026-11-24T05:02:15.543Z"
+        }
+      ],
+      "endedAt": "2026-11-24T05:02:15.682Z",
+      "summary": {
+        "outcome": "Voicemail / Short",
+        "summary": "Call to Karthik Reddy (Deccan Spice Kitchen) ended with status \"completed\" before a full conversation took place.",
+        "servicesDiscussed": [],
+        "leadObjections": [],
+        "nextStep": "Send a brief Hyderabadi Tenglish WhatsApp intro and retry calling during business hours.",
+        "whatsappFollowUp": "Hi Karthik Reddy! Nenu Kavya from WebDevs Hyderabad. Just tried calling regarding Web App, Mobile App, Meta Marketing & Ads for Deccan Spice Kitchen. Free unnapudu let me know, quick 5 mins chat cheddam!"
+      }
+    },
+    {
+      "id": "reh-a8d31844",
+      "leadName": "Karthik Reddy",
+      "businessName": "Deccan Spice Kitchen",
+      "businessType": "Cloud Kitchen & Biryani Delivery",
+      "toNumber": "Browser Rehearsal",
+      "fromNumber": "WebDevs Studio",
+      "voiceName": "Leda",
+      "focusServices": [
+        "web_app",
+        "mobile_app",
+        "meta_ads"
+      ],
+      "customNotes": "Looking to grow direct orders around HITEC City and run local Instagram lead ads.",
+      "channel": "rehearsal",
+      "status": "completed",
+      "startedAt": "2026-11-24T05:01:53.829Z",
+      "durationSec": 1,
+      "transcript": [
+        {
+          "id": "4bac84c1-c7b6-4257-84b2-25b069aa0871",
+          "speaker": "system",
+          "text": "Live voice rehearsal started with Kavya (Leda).",
+          "timestamp": "2026-11-24T05:01:53.829Z"
+        }
+      ],
+      "endedAt": "2026-11-24T05:01:53.986Z",
+      "summary": {
+        "outcome": "Voicemail / Short",
+        "summary": "No two-way conversation was recorded during this call.",
+        "servicesDiscussed": [],
+        "leadObjections": [],
+        "nextStep": "Retry calling during business hours or send a polite WhatsApp introduction.",
+        "whatsappFollowUp": "Hi Karthik Reddy! Nenu Kavya from WebDevs Hyderabad. Just tried calling regarding web/app & Meta ads support for Deccan Spice Kitchen. Free unnapudu let me know, quick 5 mins chat cheddam!"
+      }
+    },
+    {
+      "id": "reh-b2de2b52",
+      "leadName": "సూర్యతేజ",
+      "businessName": "డెక్కన్ స్పైస్ కిచెన్",
+      "businessType": "క్లౌడ్ కిచెన్",
+      "toNumber": "Browser Rehearsal",
+      "fromNumber": "WebDevs Studio",
+      "voiceName": "Aoede",
+      "focusServices": [
+        "web_app",
+        "mobile_app",
+        "meta_ads"
+      ],
+      "customNotes": "",
+      "channel": "rehearsal",
+      "status": "completed",
+      "startedAt": "2026-11-23T13:18:47.727Z",
+      "durationSec": 2,
+      "transcript": [
+        {
+          "id": "6bbb48c5-f287-474d-b05b-d843feda6214",
+          "speaker": "system",
+          "text": "Live voice rehearsal started with Ananya (Aoede).",
+          "timestamp": "2026-11-23T13:18:47.727Z"
+        },
+        {
+          "id": "51ad6c28-9710-4000-a68e-a3bbf36ee4bf",
+          "speaker": "agent",
+          "text": "హలో అండీ, ఆహ్ సూర్యతేజ",
+          "timestamp": "2026-11-23T13:18:49.327Z"
+        }
+      ],
+      "endedAt": "2026-11-23T13:18:49.330Z"
+    },
+    {
+      "id": "reh-679dadfe",
+      "leadName": "Suryateja",
+      "businessName": "Deccan Spice Kitchen",
+      "businessType": "Cloud Kitchen",
+      "toNumber": "Browser Rehearsal",
+      "fromNumber": "WebDevs Studio",
+      "voiceName": "Aoede",
+      "focusServices": [
+        "web_app",
+        "mobile_app",
+        "meta_ads"
+      ],
+      "customNotes": "",
+      "channel": "rehearsal",
+      "status": "completed",
+      "startedAt": "2026-11-23T13:09:47.836Z",
+      "durationSec": 11,
+      "transcript": [
+        {
+          "id": "de0e100c-2112-4e7d-93b7-bdf3ada3f6fa",
+          "speaker": "system",
+          "text": "Live voice rehearsal started with Ananya (Aoede).",
+          "timestamp": "2026-11-23T13:09:47.836Z"
+        },
+        {
+          "id": "27fbcfd8-2dbc-4a1d-a2cb-a6fb76fbe9a0",
+          "speaker": "agent",
+          "text": "హలో? ఆహ్ Suryateja గారా?",
+          "timestamp": "2026-11-23T13:09:49.352Z"
+        },
+        {
+          "id": "6cdb472e-2e3d-48c6-af65-ee92a935d367",
+          "speaker": "agent",
+          "text": "హలో? ఉన్నారా",
+          "timestamp": "2026-11-23T13:09:57.788Z"
+        },
+        {
+          "id": "1015b5f7-b8b0-4e1e-8a1d-882553b228be",
+          "speaker": "lead",
+          "text": "హా ఉన్నాను, కానీ లాస్ట్ మంత్ Meta ads లో డబ్బులు వేస్ట్ అయ్యాయి, చాలా ఫ్రస్ట్రేట్ అయ్యాను.",
+          "timestamp": "2026-11-23T13:09:57.791Z"
+        },
+        {
+          "id": "15cefa82-b68c-4884-8a59-d64331e36a28",
+          "speaker": "agent",
+          "text": "అయ్యో అవునా",
+          "timestamp": "2026-11-23T13:09:58.547Z"
+        }
+      ],
+      "endedAt": "2026-11-23T13:09:58.551Z"
+    },
+    {
+      "id": "reh-f6a2df11",
+      "leadName": "Suryateja",
+      "businessName": "Deccan Spice Kitchen",
+      "businessType": "Cloud Kitchen",
+      "toNumber": "Browser Rehearsal",
+      "fromNumber": "WebDevs Studio",
+      "voiceName": "Aoede",
+      "focusServices": [
+        "web_app",
+        "mobile_app",
+        "meta_ads"
+      ],
+      "customNotes": "",
+      "channel": "rehearsal",
+      "status": "completed",
+      "startedAt": "2026-11-23T12:51:46.429Z",
+      "durationSec": 1,
+      "transcript": [
+        {
+          "id": "81012624-d14d-4285-8927-8d3724745a3e",
+          "speaker": "system",
+          "text": "Live voice rehearsal started with Ananya (Aoede).",
+          "timestamp": "2026-11-23T12:51:46.429Z"
+        },
+        {
+          "id": "99cee468-c2ba-4eca-886f-fad3ea649ae4",
+          "speaker": "agent",
+          "text": "హలో? ఆహ్ Suryateja",
+          "timestamp": "2026-11-23T12:51:47.811Z"
+        }
+      ],
+      "endedAt": "2026-11-23T12:51:47.813Z"
+    },
+    {
+      "id": "reh-beaeea7d",
+      "leadName": "Karthik",
+      "businessName": "Deccan Spice Kitchen",
+      "businessType": "Cloud Kitchen",
+      "toNumber": "Browser Rehearsal",
+      "fromNumber": "WebDevs Studio",
+      "voiceName": "Leda",
+      "focusServices": [
+        "web_app",
+        "mobile_app",
+        "meta_ads"
+      ],
+      "customNotes": "",
+      "channel": "rehearsal",
+      "status": "completed",
+      "startedAt": "2026-11-23T11:14:37.835Z",
+      "durationSec": 1,
+      "transcript": [
+        {
+          "id": "bb3ef1b8-ef8c-44ec-8be1-b36196d7b3f4",
+          "speaker": "system",
+          "text": "Live voice rehearsal started with Ananya (Leda).",
+          "timestamp": "2026-11-23T11:14:37.836Z"
+        },
+        {
+          "id": "d516586b-c922-4dbe-bfb5-f7d946fc0215",
+          "speaker": "agent",
+          "text": "హే హలో Karthik",
+          "timestamp": "2026-11-23T11:14:38.999Z"
+        }
+      ],
+      "endedAt": "2026-11-23T11:14:39.002Z"
+    },
+    {
+      "id": "reh-5f73aa34",
+      "leadName": "Surya",
+      "businessName": "WebDevs Test",
+      "businessType": "Agency",
+      "toNumber": "Browser Rehearsal",
+      "fromNumber": "WebDevs Studio",
+      "voiceName": "Kore",
+      "focusServices": [
+        "web_app"
+      ],
+      "customNotes": "",
+      "channel": "rehearsal",
+      "status": "completed",
+      "startedAt": "2026-11-23T11:01:55.076Z",
+      "durationSec": 2,
+      "transcript": [
+        {
+          "id": "47345b9f-615e-4ae1-8891-d0403776f8a2",
+          "speaker": "system",
+          "text": "Live voice rehearsal started with Ananya (Kore).",
+          "timestamp": "2026-11-23T11:01:55.076Z"
+        },
+        {
+          "id": "be348bad-e944-45f3-b0f5-92f6663d1539",
+          "speaker": "agent",
+          "text": "హలో Surya",
+          "timestamp": "2026-11-23T11:01:56.783Z"
+        }
+      ],
+      "endedAt": "2026-11-23T11:01:56.786Z"
+    },
+    {
+      "id": "reh-774a0ee8",
+      "leadName": "Surya",
+      "businessName": "WebDevs Test",
+      "businessType": "Agency",
+      "toNumber": "Browser Rehearsal",
+      "fromNumber": "WebDevs Studio",
+      "voiceName": "Kore",
+      "focusServices": [
+        "web_app"
+      ],
+      "customNotes": "",
+      "channel": "rehearsal",
+      "status": "completed",
+      "startedAt": "2026-11-23T11:01:05.797Z",
+      "durationSec": 1,
+      "transcript": [
+        {
+          "id": "b56a6ba0-b07a-44b9-aa3c-6e034928c3b8",
+          "speaker": "system",
+          "text": "Live voice rehearsal started with Ananya (Kore).",
+          "timestamp": "2026-11-23T11:01:05.797Z"
+        }
+      ],
+      "endedAt": "2026-11-23T11:01:05.856Z",
+      "summary": {
+        "outcome": "Voicemail / Short",
+        "summary": "No two-way conversation was recorded during this call.",
+        "servicesDiscussed": [],
+        "leadObjections": [],
+        "nextStep": "Retry calling during business hours or send a polite WhatsApp introduction.",
+        "whatsappFollowUp": "Hi Surya! Nenu Ananya from WebDevs Hyderabad. Just tried calling regarding web/app & Meta ads support for WebDevs Test. Free unnapudu let me know, quick 5 mins chat cheddam!"
+      }
+    },
+    {
+      "id": "reh-4c01f5a1",
+      "leadName": "suryateja",
+      "businessName": "Deccan Spice Kitchen",
+      "businessType": "Cloud Kitchen & Biryani Delivery",
+      "toNumber": "Browser Rehearsal",
+      "fromNumber": "WebDevs Studio",
+      "voiceName": "Zephyr",
+      "focusServices": [
+        "web_app",
+        "mobile_app",
+        "meta_ads"
+      ],
+      "customNotes": "Looking to grow direct orders around HITEC City and run local Instagram lead ads.",
+      "channel": "rehearsal",
+      "status": "completed",
+      "startedAt": "2026-11-23T10:55:22.037Z",
+      "durationSec": 1,
+      "transcript": [
+        {
+          "id": "c0fdc391-9f11-4ce0-a97c-3e66681aa24e",
+          "speaker": "system",
+          "text": "Live voice rehearsal started with Kavya (Zephyr).",
+          "timestamp": "2026-11-23T10:55:22.037Z"
+        }
+      ],
+      "endedAt": "2026-11-23T10:55:22.107Z",
+      "summary": {
+        "outcome": "Voicemail / Short",
+        "summary": "No two-way conversation was recorded during this call.",
+        "servicesDiscussed": [],
+        "leadObjections": [],
+        "nextStep": "Retry calling during business hours or send a polite WhatsApp introduction.",
+        "whatsappFollowUp": "Hi suryateja! Nenu Kavya from WebDevs Hyderabad. Just tried calling regarding web/app & Meta ads support for Deccan Spice Kitchen. Free unnapudu let me know, quick 5 mins chat cheddam!"
+      }
+    },
+    {
+      "id": "call-37a24fc9-3",
+      "leadName": "suryateja",
+      "businessName": "Deccan Spice Kitchen",
+      "businessType": "Cloud Kitchen & Biryani Delivery",
+      "toNumber": "+918367253903",
+      "fromNumber": "+183••••8809",
+      "voiceName": "Kore",
+      "focusServices": [
+        "web_app",
+        "mobile_app",
+        "meta_ads"
+      ],
+      "customNotes": "Looking to grow direct orders around HITEC City and run local Instagram lead ads.",
+      "channel": "twilio",
+      "callMode": "inline-twiml",
+      "status": "completed",
+      "startedAt": "2026-11-23T10:53:17.903Z",
+      "durationSec": 27,
+      "transcript": [
+        {
+          "id": "0a0b77ac-72b0-4a3c-9d92-af8f31c66f49",
+          "speaker": "system",
+          "text": "Crafting personalized Hyderabadi Tenglish pitch and dialing +918367253903 via Twilio inline voice...",
+          "timestamp": "2026-11-23T10:53:17.903Z"
+        },
+        {
+          "id": "e5a4ed74-1a11-40b1-b763-e37856d1fc08",
+          "speaker": "agent",
+          "text": "Hello andi, namaskaram, nenu Ananya ni WebDevs Hyderabad nunchi, ela unnaru Suryateja garu? Chudandi, mee Deccan Spice Kitchen ki HITEC City lo direct orders peragali ante, manchi e-commerce website, inka Instagram ads chala baga help avutayi, asalu meeru digital ga scale avvadaniki memu support chestamu. Meeku no pressure at all, okasari free ga audit chesi, antha transparent ga budget entho chupi, mee business ki best results ela ostayo chuddam.",
+          "timestamp": "2026-11-23T10:53:29.744Z"
+        },
+        {
+          "id": "4a44e830-2a64-4570-beb8-5de7e2074e6c",
+          "speaker": "agent",
+          "text": "Achaa, aithe na portfolio WhatsApp lo pampista, meeku kudirite oka 15 minutes call matladudama, chala thanks andi.",
+          "timestamp": "2026-11-23T10:53:29.744Z"
+        }
+      ],
+      "callSid": "CA37c64abac556a625107cbbcda5b241ed",
+      "endedAt": "2026-11-23T10:54:04.948Z"
+    },
+    {
+      "id": "call-8afcac28-a",
+      "leadName": "SURYATEJA",
+      "businessName": "Deccan Spice Kitchen",
+      "businessType": "Cloud Kitchen & Biryani Delivery",
+      "toNumber": "+918367253903",
+      "fromNumber": "+183••••8809",
+      "voiceName": "Kore",
+      "focusServices": [
+        "web_app",
+        "mobile_app",
+        "meta_ads"
+      ],
+      "customNotes": "Looking to grow direct orders around HITEC City and run local Instagram lead ads.",
+      "channel": "twilio",
+      "callMode": "inline-twiml",
+      "status": "completed",
+      "startedAt": "2026-11-23T10:26:46.721Z",
+      "durationSec": 38,
+      "transcript": [
+        {
+          "id": "57ecb475-0c92-42ff-9120-659a61f30931",
+          "speaker": "system",
+          "text": "Crafting personalized Hyderabadi Tenglish pitch and dialing +918367253903 via Twilio inline voice...",
+          "timestamp": "2026-11-23T10:26:46.722Z"
+        },
+        {
+          "id": "1530aed2-50b0-4e04-8b8a-a87e79ff45fe",
+          "speaker": "agent",
+          "text": "Hello Suryateja garu, good afternoon! Nenu Ananya maatladutunnanu, WebDevs Hyderabad nunchi, ela unnaru? Deccan Spice Kitchen gurinchi chala manchi reviews vinnanu, especially mee biryani gurinchi. HITEC City chuttu direct orders penchukodaniki memu fast e-commerce website, repeat customers kosam mobile app, mariyu local Instagram lead ads tho mee business ni next level ki teesukellagalamu.",
+          "timestamp": "2026-11-23T10:26:51.752Z"
+        },
+        {
+          "id": "bc0cb58c-8c2e-4cd7-a0f8-256c3b099bb3",
+          "speaker": "agent",
+          "text": "Deeniki elanti pressure ledu Suryateja garu, maa pricing kuda chala transparent ga untundi. Mee Hyderabad local market ki taggattu oka free quick audit kuda chesi isthamu. Meeku okay ante, maa WebDevs portfolio WhatsApp lo share chestanu, mariyu meeku convenient unna time lo oka chinna 15-minute demo call fix chesukundama? Thank you so much for your time!",
+          "timestamp": "2026-11-23T10:26:51.752Z"
+        }
+      ],
+      "callSid": "CA88f4c0167eaf22adb3ac721d7c1a49fb",
+      "endedAt": "2026-11-23T10:27:39.466Z",
+      "summary": {
+        "outcome": "Voicemail / Short",
+        "summary": "Ananya from WebDevs Hyderabad pitched a fast e-commerce website, mobile app, and local Instagram lead ads to Suryateja of Deccan Spice Kitchen to boost direct orders around HITEC City. The prospect did not respond during the call, which ended with an offer to share the portfolio on WhatsApp and schedule a 15-minute demo.",
+        "servicesDiscussed": [
+          "Fast e-commerce website",
+          "Mobile app for repeat customers",
+          "Local Instagram lead ads",
+          "Free quick market audit"
+        ],
+        "leadObjections": [],
+        "nextStep": "Send the WebDevs portfolio and free audit offer via WhatsApp, then follow up with a call or message in 2 days if there is no response.",
+        "whatsappFollowUp": "Hi Suryateja garu, Ananya here from WebDevs Hyderabad! Indaka call chesanu kani connect avvaledu. Deccan Spice Kitchen biryani reviews chala bagunnayi! HITEC City chuttu direct orders penchukodaniki mee kosam oka quick free audit mariyu maa portfolio share chestunnanu. Free unnapudu chudandi, oka 15-min demo call fix chesukundama?"
+      }
+    },
+    {
+      "id": "call-4d869274-9",
+      "leadName": "Karthik Reddy",
+      "businessName": "Deccan Spice Kitchen",
+      "businessType": "Cloud Kitchen & Biryani Delivery",
+      "toNumber": "+919848011223",
+      "fromNumber": "+183••••8809",
+      "voiceName": "Kore",
+      "focusServices": [
+        "web_app",
+        "mobile_app",
+        "meta_ads"
+      ],
+      "customNotes": "Looking to grow direct orders around HITEC City and run local Instagram lead ads.",
+      "channel": "twilio",
+      "callMode": "inline-twiml",
+      "status": "failed",
+      "startedAt": "2026-11-23T10:21:31.522Z",
+      "durationSec": 0,
+      "transcript": [
+        {
+          "id": "d84bf7c5-07fa-4f49-aefe-f3319313e204",
+          "speaker": "system",
+          "text": "Crafting personalized Hyderabadi Tenglish pitch and dialing +919848011223 via Twilio inline voice...",
+          "timestamp": "2026-11-23T10:21:31.522Z"
+        },
+        {
+          "id": "9386be89-d051-4d58-8a2c-377813acb445",
+          "speaker": "system",
+          "text": "Call failed: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+          "timestamp": "2026-11-23T10:21:36.322Z"
+        }
+      ],
+      "endedAt": "2026-11-23T10:21:36.321Z",
+      "errorMessage": "{\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
+    },
+    {
+      "id": "call-4e352c60-1",
+      "leadName": "suryateja",
+      "businessName": "Deccan Spice Kitchen",
+      "businessType": "Cloud Kitchen & Biryani Delivery",
+      "toNumber": "+918367253903",
+      "fromNumber": "+183••••8809",
+      "voiceName": "Kore",
+      "focusServices": [
+        "web_app",
+        "mobile_app"
+      ],
+      "customNotes": "Looking to grow direct orders around HITEC City and run local Instagram lead ads.",
+      "channel": "twilio",
+      "status": "completed",
+      "startedAt": "2026-11-23T10:16:04.141Z",
+      "durationSec": 34,
+      "transcript": [
+        {
+          "id": "54d67612-b2ce-49cc-864e-e1ca8f986660",
+          "speaker": "system",
+          "text": "Dialing +918367253903 via Twilio with Ananya (Kore)...",
+          "timestamp": "2026-11-23T10:16:04.141Z"
+        }
+      ],
+      "callSid": "CA638b79479ae9cf0edf4b55c5f9318bf4",
+      "endedAt": "2026-11-23T10:16:38.297Z",
+      "summary": {
+        "outcome": "Voicemail / Short",
+        "summary": "No two-way conversation was recorded during this call.",
+        "servicesDiscussed": [],
+        "leadObjections": [],
+        "nextStep": "Retry calling during business hours or send a polite WhatsApp introduction.",
+        "whatsappFollowUp": "Hi suryateja! Nenu Ananya from WebDevs Hyderabad. Just tried calling regarding web/app & Meta ads support for Deccan Spice Kitchen. Free unnapudu let me know, quick 5 mins chat cheddam!"
+      }
+    }
+  ]
+}
